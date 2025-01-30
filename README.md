@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :you can reach me in T18051652626@outlook.com.
-- 😄 Pronouns: ...
+- 😄 Pronouns: :)
 - ⚡ Fun fact: I have two eyes!
 
 <!---
